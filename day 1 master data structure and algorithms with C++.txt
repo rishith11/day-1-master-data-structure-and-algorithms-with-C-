@@ -1,0 +1,16 @@
+1) 
+	a=1
+	b=1
+	while(b<=n)
+	{
+		a=a+1;
+		b=b+a;
+		cout<<"HI";
+	}
+T(n)=O(root n)
+
+2)
+	for(i=n;i<=1;i=i/3)
+		cout<<"HI";
+T(n)=O(log n)
+	
